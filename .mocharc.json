@@ -1,0 +1,12 @@
+{
+  "diff": true,
+  "extension": [
+    "js"
+  ],
+  "timeout": 60000,
+  "ui": "bdd",
+  "spec": [
+    "lib/**/*.spec.js",
+    "test/**/*.spec.js"
+  ]
+}
