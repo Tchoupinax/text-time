@@ -1,6 +1,6 @@
 {
   "name": "text-time",
-  "version": "0.0.2",
+  "version": "0.0.3-0",
   "description": "Easily transform text to time",
   "main": "lib/index.js",
   "scripts": {
