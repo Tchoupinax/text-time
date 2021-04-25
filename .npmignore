@@ -1,0 +1,12 @@
+.github
+node_modules
+test
+.editorconfig
+.eslintrc
+.gitignore
+.mocharc.json
+.npmrc
+.nvmrc
+CHANGELOG.md
+LICENCE
+README
