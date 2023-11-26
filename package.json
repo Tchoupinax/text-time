@@ -1,6 +1,6 @@
 {
   "name": "text-time",
-  "version": "0.0.3-0",
+  "version": "0.0.3",
   "description": "Easily transform text to time",
   "main": "lib/index.js",
   "scripts": {
@@ -21,10 +21,10 @@
     "node": ">=14"
   },
   "devDependencies": {
-    "chai": "^4.3.4",
-    "eslint": "^7.24.0",
-    "mocha": "^8.3.2",
-    "mocha-each": "^2.0.1",
-    "np": "^7.4.0"
+    "chai": "4.3.10",
+    "eslint": "8.54.0",
+    "mocha": "10.2.0",
+    "mocha-each": "2.0.1",
+    "np": "8.0.4"
   }
 }
